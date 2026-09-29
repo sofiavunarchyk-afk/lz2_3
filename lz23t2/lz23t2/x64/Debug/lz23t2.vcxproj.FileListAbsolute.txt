@@ -1,0 +1,3 @@
+D:\visual studio\lz23t2\lz23t2\x64\Debug\lz23t2.vcxproj.AssemblyReference.cache
+D:\visual studio\lz23t2\lz23t2\x64\Debug\lz23t2.MyForm.resources
+D:\visual studio\lz23t2\lz23t2\x64\Debug\lz23t2.vcxproj.GenerateResource.cache
